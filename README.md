@@ -1,5 +1,5 @@
 # hello-world
-just another repository
+just another hello world
 Hello Everyone!
 
 We are in the midst of an epidemic that is causing a lot of pain.
